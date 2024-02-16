@@ -3,6 +3,7 @@ fun main(){
     gg.Info()
     gg.price()
     gg.fate()
+    gg.people_weight()
     gg.Output()
 
 }

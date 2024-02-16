@@ -5,8 +5,9 @@ class Manf(manufacturer :String, ):Cake(manufacturer){
         cost=weight*0.7
     }
 
-
-
+    fun people_weight(){
+    p_weight+=calorie_content*0.3
+    }
 
     fun fate(){
         val rnds = (0..6).random()
